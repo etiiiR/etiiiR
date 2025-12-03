@@ -1,7 +1,6 @@
 ![Etienne's GitHub stats](https://github-readme-stats.vercel.app/api?username=etiiir&hide=contribs,prs)
 
-- 🌱 I’m currently studying Data Science @FHNW
-
+- 🌱 I’m currently studying Msc. Data Science @UniBas
 <!--
 **etiiiR/etiiiR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
